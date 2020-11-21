@@ -1,0 +1,13 @@
+# C++ binaries
+*.exe
+*.obj
+
+# Visual Studio Analysis Files:
+*.nativecodeanalysis.xml
+
+# Python Cache/Compiled files
+__pycache__/*
+*.pyc
+
+# Vim Temp Files
+*.swp

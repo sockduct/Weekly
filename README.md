@@ -30,7 +30,12 @@
 * [codewars-wk4.py](codewars-wk4.py) - [Codewars](https://www.codewars.com) kata - bouncing balls (Python solution)
 * [codewars-wk4.ps1](codewars-wk4.ps1) - [Codewars](https://www.codewars.com) kata - bouncing balls (PowerShell solution), this is my attempt to start writing PowerShell code on a regular basis.  I don't know how to think in PowerShell yet so I actually wrote the solution and tests in Python.  Then I ported the solution with Google-Fu to PowerShell.  This makes me realize how much I have to learn about PowerShell, but at least it's pushing me in the right direction.
 
-### Week 5, Ending December 18, 2020 - TBD...
+### Week 5, Ending December 18, 2020 - Finish up school project and collect templates I use for assignments
+
+* [lookup.sh](../../../Example-Code/blob/master/lookup.sh) - Complete class assignment using bash script, an address book program
+* [Templates - Linux](../../../Templates.Linux) - Code templates targeting Linux including C, C++, bash scripts, a Makefile, a recorder script, and a source code file to markdown converter
+
+### Week 6, Ending December 25, 2020 - TBD...
 
 <hr>
 <br>

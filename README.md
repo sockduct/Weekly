@@ -35,7 +35,18 @@
 * [lookup.sh](../../../Example-Code/blob/master/lookup.sh) - Complete class assignment using bash script, an address book program
 * [Templates - Linux](../../../Templates.Linux) - Code templates targeting Linux including C, C++, bash scripts, a Makefile, a recorder script, and a source code file to markdown converter
 
-### Week 6, Ending December 25, 2020 - TBD...
+### Week 6, Ending December 25, 2020 - Keep doing PowerShell coding challenges
+
+* [codewars-wk6.py](codewars-wk6.py) - [Codewars](https://www.codewars.com) kata - buying a car (Python solution)
+* [codewars-wk6.ps1](codewars-wk6.ps1) - [Codewars](https://www.codewars.com) kata - buying a car (PowerShell solution), continuing to develop my working PowerShell knowledge.  This week I realize that PowerShell is quite a bit different than traditional programming languages, but also quite similar to another shell - bash!
+* [codewars-wk6-2.py](codewars-wk6-2.py) - [Codewars](https://www.codewars.com) kata - playing on a chessboard (Python solution)
+    * [How to find formula for generic summation n/(n + C)](https://math.stackexchange.com/q/3959180/866013) - My attempt to find a formula/algorithm to calculate the sequence/matrix.  In the process I found the solution myself.  :-)  [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) to the rescue once again...
+    * [fracgrid.py](fracgrid.py) - Helper program to print out a matrix of incrementing fractions
+    * [matrices.xlsx](matrices.xlsx) - Spreadsheet to play around with matrices to help see/find solution for this challenge
+* [codewars-wk6-2.ps1](codewars-wk6-2.ps1) - [Codewars](https://www.codewars.com) kata - playing no a chessboard (PowerShell solution)
+* [codewars-wk6-2.cpp](codewars-wk6-2.cpp) - [Codewars](https://www.codewars.com) kata - playing no a chessboard (C++ attempt)
+
+### Week 7, Ending January 1, 2021 - TBD...
 
 <hr>
 <br>

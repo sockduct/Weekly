@@ -40,13 +40,18 @@
 * [codewars-wk6.py](codewars-wk6.py) - [Codewars](https://www.codewars.com) kata - buying a car (Python solution)
 * [codewars-wk6.ps1](codewars-wk6.ps1) - [Codewars](https://www.codewars.com) kata - buying a car (PowerShell solution), continuing to develop my working PowerShell knowledge.  This week I realize that PowerShell is quite a bit different than traditional programming languages, but also quite similar to another shell - bash!
 * [codewars-wk6-2.py](codewars-wk6-2.py) - [Codewars](https://www.codewars.com) kata - playing on a chessboard (Python solution)
-    * [How to find formula for generic summation n/(n + C)](https://math.stackexchange.com/q/3959180/866013) - My attempt to find a formula/algorithm to calculate the sequence/matrix.  In the process I found the solution myself.  :-)  [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) to the rescue once again...
-    * [fracgrid.py](fracgrid.py) - Helper program to print out a matrix of incrementing fractions
-    * [matrices.xlsx](matrices.xlsx) - Spreadsheet to play around with matrices to help see/find solution for this challenge
-* [codewars-wk6-2.ps1](codewars-wk6-2.ps1) - [Codewars](https://www.codewars.com) kata - playing no a chessboard (PowerShell solution)
-* [codewars-wk6-2.cpp](codewars-wk6-2.cpp) - [Codewars](https://www.codewars.com) kata - playing no a chessboard (C++ attempt)
+  * [How to find formula for generic summation n/(n + C)](https://math.stackexchange.com/q/3959180/866013) - My attempt to find a formula/algorithm to calculate the sequence/matrix.  In the process I found the solution myself.  :-)  [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) to the rescue once again...
+  * [fracgrid.py](fracgrid.py) - Helper program to print out a matrix of incrementing fractions
+  * [matrices.xlsx](matrices.xlsx) - Spreadsheet to play around with matrices to help see/find solution for this challenge
+* [codewars-wk6-2.ps1](codewars-wk6-2.ps1) - [Codewars](https://www.codewars.com) kata - playing on a chessboard (PowerShell solution)
+* [codewars-wk6-2.cpp](codewars-wk6-2.cpp) - [Codewars](https://www.codewars.com) kata - playing on a chessboard (C++ attempt)
 
-### Week 7, Ending January 1, 2021 - TBD...
+### Week 7, Ending January 1, 2021 - Keep doing PowerShell coding challenges
+
+* [codewars-wk7.py](codewars-wk7.py) - [Codewars](https://www.codewars.com) kata - are they the "same" (Python solution)
+* [codewars-wk7.py](codewars-wk7.ps1) - [Codewars](https://www.codewars.com) kata - are they the "same" (PowerShell solution), discovered there's a much simpler PowerShell solution:  ```compare-object @($a1 | % {$_ * $_}) $a2```.  Also learning quite a bit trying to translate Python into PowerShell.  There's still a lot I don't know how to do in PowerShell.  For this solution I tried to do ```if ($element -in $hashtable) {...}``` - a direct translation from Python, except it doesn't work!  In PowerShell, you need to do ```if ($hashtable.contains($element)) {...}```.  It also appears $null in PowerShell is not quite the same as None in Python...
+
+### Week 8, Ending January 8, 2021 - TBD...
 
 <hr>
 <br>

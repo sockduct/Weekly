@@ -55,6 +55,10 @@
 
 ### Week 8, Ending January 8, 2021 - TBD...
 
+* [codewars-wk8.ps1](codewars-wk8.ps1) - [Codewars](https://www.codewars.com) kata - sum of odd numbers (PowerShell solution), started and actually completed this challenge all in PowerShell.  This one was good for improving my understanding of PowerShell's implementation of "hash tables."  While it's similar to a dictionary in Python, the access method is a little different.  I also used an ordered hash table to facilitate testing.  I actually like this better than what the site did.
+
+### Week 9, Ending January 15, 2021 - TBD...
+
 <hr>
 <br>
 <hr>

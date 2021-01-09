@@ -53,9 +53,10 @@
 * [codewars-wk7-2.ps1](codewars-wk7.ps1) - [Codewars](https://www.codewars.com) kata - color choice (PowerShell solution), this week I started in PowerShell!  Finally getting comfortable tackling problems directly in PowerShell...  Definitely different from general purpose programming language like Python - much more like bash.  For example, functions are invoked function arg1 arg2 arg3 not function(arg1, arg2, arg3).  Doing the latter results in passing an array to the function!!!  However, I couldn't solve the problem with PowerShell and had to switch to Python.  This problem appeared to require arbitrarily large integers.  Python supports this natively, PowerShell supports this with the bigint type which doesn't appear to be easily discoverable.
 * [codewars-wk7-2.py](codewars-wk7.py) - [Codewars](https://www.codewars.com) kata - color choice (Python solution), Python is just great.  In fact, it turns out that the Python math library (part of stdlib) includes a factorial function - so I didn't even have to write that...  It's worth noting, PowerShell functionality for codewars is marked beta.  I noticed that the Python support is much better.  The test cases for example are far more ellaborate and provide much better feedback.  This makes it much easier to find problems with Python for codewars.
 
-### Week 8, Ending January 8, 2021 - TBD...
+### Week 8, Ending January 8, 2021 - Continue to build out PowerShell skills, started developing production grade PowerShell script
 
 * [codewars-wk8.ps1](codewars-wk8.ps1) - [Codewars](https://www.codewars.com) kata - sum of odd numbers (PowerShell solution), started and actually completed this challenge all in PowerShell.  This one was good for improving my understanding of PowerShell's implementation of "hash tables."  While it's similar to a dictionary in Python, the access method is a little different.  I also used an ordered hash table to facilitate testing.  I actually like this better than what the site did.
+* Working on production utility script to check multiple Active Directories (in separate Forests) for a specific user account, the account's validity, and if the account has the necessary requirements to use VPN
 
 ### Week 9, Ending January 15, 2021 - TBD...
 

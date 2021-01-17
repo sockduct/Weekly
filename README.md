@@ -58,7 +58,11 @@
 * [codewars-wk8.ps1](codewars-wk8.ps1) - [Codewars](https://www.codewars.com) kata - sum of odd numbers (PowerShell solution), started and actually completed this challenge all in PowerShell.  This one was good for improving my understanding of PowerShell's implementation of "hash tables."  While it's similar to a dictionary in Python, the access method is a little different.  I also used an ordered hash table to facilitate testing.  I actually like this better than what the site did.
 * Working on production utility script to check multiple Active Directories (in separate Forests) for a specific user account, the account's validity, and if the account has the necessary requirements to use VPN
 
-### Week 9, Ending January 15, 2021 - TBD...
+### Week 9, Ending January 15, 2021 - Hitting my stride with PowerShell, continue work on production grade script
+
+* [Write-ADUser.ps1](Write-ADUser.ps1) - A function that came out of my production grade script as it's a useful standalone component
+
+### Week 10, Ending January 22, 2021 - TBD...
 
 <hr>
 <br>

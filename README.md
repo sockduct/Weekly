@@ -62,7 +62,11 @@
 
 * [Write-ADUser.ps1](Write-ADUser.ps1) - A function that came out of my production grade script as it's a useful standalone component
 
-### Week 10, Ending January 22, 2021 - TBD...
+### Week 10, Ending January 22, 2021 - Used PowerShell this week to sift through Windows Event Logs and find cause instigating service crash.  Created a simple Python program - simple if you understand permutations and leveraging data structures.  This is something I've always wanted to do and finally got around to it.
+
+* [letters2words.py](letters2words.py) - Simple Python program to find all possible words from set of letters, written as I started playing Scrabble and word games.
+
+### Week 11, Ending January 22, 2021 - TBD...
 
 <hr>
 <br>

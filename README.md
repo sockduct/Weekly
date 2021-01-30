@@ -66,7 +66,9 @@
 
 * [letters2words.py](letters2words.py) - Simple Python program to find all possible words from set of letters, written as I started playing Scrabble and word games.
 
-### Week 11, Ending January 22, 2021 - TBD...
+### Week 11, Ending January 29, 2021 - Heads down in Django for the whole week.  Working through Django for Beginners - past half way through the book now.  Also putting together project design plan for my senior/capstone project.  My Django commits this week are all private, but once I work out security I can make the repos public.
+
+### Week 12, Ending February 5 2021 - TBD...
 
 <hr>
 <br>
